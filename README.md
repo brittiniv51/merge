@@ -1,2 +1,2 @@
-# merge
+# FoodCompCapstone
 Created with CodeSandbox
